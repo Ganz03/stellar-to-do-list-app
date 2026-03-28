@@ -87,12 +87,6 @@ We aim to create a future where productivity tools are private, secure, and full
 * Contract Address: CDKJDUAWITBDOZJBYT4KPTIIW7O6ND545GDAVVOYZ3FF25D7CU2AZOKJ
 * Screenshot: screenshot.png
 
-## Contract Details
-
-* Contract Address: *(Isi dengan address hasil deploy kamu)*
-* Screenshot:
-  ![alt text](screenshot.png)
-
 ---
 
 ## Future Scope
